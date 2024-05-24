@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7A9F9F-44F7-4EF5-839B-CC2C019D1253}|Data\\Data.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\data\\repostoryabstract\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7A9F9F-44F7-4EF5-839B-CC2C019D1253}|Data\\Data.csproj|solutionrelative:data\\repostoryabstract\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7A9F9F-44F7-4EF5-839B-CC2C019D1253}|Data\\Data.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\data\\repostoryabstract\\iblogrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7A9F9F-44F7-4EF5-839B-CC2C019D1253}|Data\\Data.csproj|solutionrelative:data\\repostoryabstract\\iblogrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7A9F9F-44F7-4EF5-839B-CC2C019D1253}|Data\\Data.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A7A9F9F-44F7-4EF5-839B-CC2C019D1253}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C0DDB0-DF0D-4278-8C74-60AC2034F8AA}|Core\\Core.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C0DDB0-DF0D-4278-8C74-60AC2034F8AA}|Core\\Core.csproj|solutionrelative:core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C0DDB0-DF0D-4278-8C74-60AC2034F8AA}|Core\\Core.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C0DDB0-DF0D-4278-8C74-60AC2034F8AA}|Core\\Core.csproj|solutionrelative:core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C0DDB0-DF0D-4278-8C74-60AC2034F8AA}|Core\\Core.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\core\\repostoryconcretes\\blogrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C0DDB0-DF0D-4278-8C74-60AC2034F8AA}|Core\\Core.csproj|solutionrelative:core\\repostoryconcretes\\blogrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C0DDB0-DF0D-4278-8C74-60AC2034F8AA}|Core\\Core.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2C0DDB0-DF0D-4278-8C74-60AC2034F8AA}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C0DDB0-DF0D-4278-8C74-60AC2034F8AA}|Core\\Core.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\core\\repostoryconcretes\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C0DDB0-DF0D-4278-8C74-60AC2034F8AA}|Core\\Core.csproj|solutionrelative:core\\repostoryconcretes\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\examtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|solutionrelative:examtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7A9F9F-44F7-4EF5-839B-CC2C019D1253}|Data\\Data.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7A9F9F-44F7-4EF5-839B-CC2C019D1253}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\examtest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|solutionrelative:examtest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\examtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|solutionrelative:examtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\examtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|solutionrelative:examtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\examtest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|solutionrelative:examtest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\examtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|solutionrelative:examtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\examtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{027BC026-BEEC-481D-B6AA-2AFD5F7C5604}|ExamTest\\ExamTest.csproj|solutionrelative:examtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7A9F9F-44F7-4EF5-839B-CC2C019D1253}|Data\\Data.csproj|c:\\users\\ca.r213.16\\source\\repos\\examtest\\data\\migrations\\20240524055239_createblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7A9F9F-44F7-4EF5-839B-CC2C019D1253}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240524055239_createblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T09:09:21.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Core\\RepostoryConcretes\\BlogRepostory.cs",
+              "RelativeDocumentMoniker": "Core\\RepostoryConcretes\\BlogRepostory.cs",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Core\\RepostoryConcretes\\BlogRepostory.cs",
+              "RelativeToolTip": "Core\\RepostoryConcretes\\BlogRepostory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:27:55.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Core\\RepostoryConcretes\\GenericRepostory.cs",
+              "RelativeDocumentMoniker": "Core\\RepostoryConcretes\\GenericRepostory.cs",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Core\\RepostoryConcretes\\GenericRepostory.cs",
+              "RelativeToolTip": "Core\\RepostoryConcretes\\GenericRepostory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:27:39.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:12:30.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBlogRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Data\\RepostoryAbstract\\IBlogRepostory.cs",
+              "RelativeDocumentMoniker": "Data\\RepostoryAbstract\\IBlogRepostory.cs",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Data\\RepostoryAbstract\\IBlogRepostory.cs",
+              "RelativeToolTip": "Data\\RepostoryAbstract\\IBlogRepostory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:27:28.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Data\\RepostoryAbstract\\IGenericRepostory.cs",
+              "RelativeDocumentMoniker": "Data\\RepostoryAbstract\\IGenericRepostory.cs",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Data\\RepostoryAbstract\\IGenericRepostory.cs",
+              "RelativeToolTip": "Data\\RepostoryAbstract\\IGenericRepostory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:27:12.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:06:35.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T04:08:34.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Core\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Core\\Models\\Blog.cs",
+              "RelativeToolTip": "Core\\Models\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:55:32.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:55:03.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExamTest\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExamTest\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:06:25.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExamTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAuwMgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:06:44.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamTest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:05:37.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExamTest\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExamTest\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:06:27.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240524055239_createblog.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Data\\Migrations\\20240524055239_createblog.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240524055239_createblog.cs",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\Data\\Migrations\\20240524055239_createblog.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240524055239_createblog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:52:39.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Program.cs",
+              "RelativeDocumentMoniker": "ExamTest\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\Program.cs",
+              "RelativeToolTip": "ExamTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:06:18.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r213.16\\source\\repos\\ExamTest\\ExamTest\\appsettings.json",
+              "RelativeToolTip": "ExamTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T04:48:37.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
